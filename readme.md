@@ -32,15 +32,15 @@ Email:
 Github:
 
 ### YZ
-Email: 
-Github: 
+Email: theheralding@gmail.com
+Github: https://github.com/YZLoh
 
 ### George
-Email: 
-Github:
+Email: gkoumoussis@gmail.com
+Github:https://github.com/gkoum-7
 
 ### Riki
-Email:
+Email:gkoumoussis@gmail.com
 Github:
 
 ### Wayne
