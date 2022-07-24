@@ -28,25 +28,24 @@ Walkthrough: https://www.youtube.com/watch?v=Tm6-Y1O-2es
 ## Team
 
 ### Zac
-Email: 
-Github:
+Email: zacyapjq@gmail.com <br/>
+Github: https://github.com/zacyapjq <br/>
 
 ### YZ
-Email: theheralding@gmail.com
-Github: https://github.com/YZLoh
+Email: theheralding@gmail.com <br/>
+Github: https://github.com/YZLoh <br/>
 
 ### George
-Email: gkoumoussis@gmail.com
-Github:https://github.com/gkoum-7
+Email: gkoumoussis@gmail.com <br/>
+Github: https://github.com/gkoum-7 <br/>
 
 ### Riki
-Email:gkoumoussis@gmail.com
-Github:
+Email: gkoumoussis@gmail.com <br/>
+Github: https://github.com/riki91 <br/>
 
 ### Wayne
 Email: devchain7890@gmail.com <br/>
-Github: @hougangdev <br/> 
-https://github.com/hougangdev
+Github: https://github.com/hougangdev <br/>
 
 ## Features
 - Uses machine learning to assign each voter a uniqueness score.
