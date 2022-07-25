@@ -40,10 +40,6 @@ Github: https://github.com/YZLoh <br/>
 Email: gkoumoussis@gmail.com <br/>
 Github: https://github.com/gkoum-7 <br/>
 
-### Riki
-Email: gkoumoussis@gmail.com <br/>
-Github: https://github.com/riki91 <br/>
-
 ### Wayne
 Email: devchain7890@gmail.com <br/>
 Github: https://github.com/hougangdev <br/>
